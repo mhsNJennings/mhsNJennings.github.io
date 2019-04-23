@@ -2,7 +2,7 @@ var mySound; // Creates a variable to hold the sound
 var img;
   function preload() {
     mySound = loadSound('');  // Loads the sound file into the variable
-    img = loadImage('Moto Moto.png');
+    img = loadImage('source.gif');
   }
 
   function setup() {
