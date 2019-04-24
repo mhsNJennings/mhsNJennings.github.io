@@ -8,7 +8,7 @@ var img;
 
   function setup() {
     createCanvas(1280, 960);
-    image(img, 640, 480);
+    image(img, 640, 470);
     // Notice that you have to put the variable name in front of the functions
     mySound.setVolume(0.1);
     mySound.play();
